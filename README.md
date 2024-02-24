@@ -9,6 +9,9 @@
 - [Schema Diagram](#schema-diagram)
 - [Tools](#tools)
 - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Data Analysis](#data-analysis)
+- [Visualization](#visualization)
+- [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 
 
@@ -94,7 +97,7 @@ FROM
     Dano_airline;
 
 ```
-## visualizations
+## visualization
 
 Visualizations have been created to represent the findings and provide insights into various aspects of the dataset. Below is a visualization of one of the main insights derived from the analysis:
 
@@ -105,7 +108,7 @@ Visualizations have been created to represent the findings and provide insights 
 
 
 
-## Key Insights and Findings
+## Key Insights 
 - The survey showed a satisfaction rate of 43%.
 - The most dissatisfied customer segments were 90% of personal purpose travellers, 76% of first-time passengers, 81% and 75% of economy and economy-plus passengers, 83% of under 18 and 81% of those above 65.
 - The major dissatisfactory services were:
