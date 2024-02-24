@@ -97,7 +97,7 @@ FROM
     Dano_airline;
 
 ```
-## visualization
+## Visualization
 
 Visualizations have been created to represent the findings and provide insights into various aspects of the dataset. Below is a visualization of one of the main insights derived from the analysis:
 
