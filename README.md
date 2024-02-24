@@ -101,7 +101,7 @@ FROM
 
 Visualizations have been created to represent the findings and provide insights into various aspects of the dataset. Below is a visualization of one of the main insights derived from the analysis:
 
-- **Satisfaction Rate of Airline Services By Passengers**
+- **Satisfaction Rates of Airline Services By Passengers**
   
 ![image](https://github.com/NEENYEE/Dano-Airline-/assets/101926233/e19f55ec-4b8b-48eb-88b6-9daf90f5dc0f)
 
