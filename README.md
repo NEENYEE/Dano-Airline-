@@ -99,12 +99,10 @@ FROM
 ```
 ## Visualization
 
-Visualizations have been created to represent the findings and provide insights into various aspects of the dataset. Below is a visualization of one of the main insights derived from the analysis:
-
-- **Satisfaction Rates of Airline Services By Passengers**
-  
-![image](https://github.com/NEENYEE/Dano-Airline-/assets/101926233/e19f55ec-4b8b-48eb-88b6-9daf90f5dc0f)
-
+Visualizations have been created to represent the findings and provide insights into various aspects of the dataset. Below is a visualization the main insights derived from the analysis:
+<img width="1680" alt="Screenshot 2024-02-26 at 9 42 28 PM" src="https://github.com/NEENYEE/Dano-Airline-/assets/101926233/f0b57443-186f-40db-a4bf-bc129fd5c0a7">
+<img width="1680" alt="Screenshot 2024-02-26 at 10 56 50 PM" src="https://github.com/NEENYEE/Dano-Airline-/assets/101926233/b19b3c9f-e025-4617-99b9-0fdf088a0195">
+<img width="1680" alt="Screenshot 2024-02-26 at 10 58 06 PM" src="https://github.com/NEENYEE/Dano-Airline-/assets/101926233/080e06eb-ac6d-42cd-aa8f-8179637a7daf">
 
 
 
